@@ -1,3 +1,7 @@
+## 1.0.1
+
+* Allow firebase_core 4.x/5.x and firebase_storage 13.x/14.x (no API changes needed).
+
 ## 1.0.0
 
 * Initial release of ImagePickerWebTotalxsoftware - Flutter Web Plugin
