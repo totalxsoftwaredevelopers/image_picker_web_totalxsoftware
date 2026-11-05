@@ -1,6 +1,6 @@
 name: image_picker_web_totalxsoftware
 description: "A Flutter web plugin for selecting and uploading images to Firebase Storage with support for single and multiple image selection, optimized upload options, and custom error handling."
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/totalxsoftwaredevelopers/image_picker_web_totalxsoftware.git
 
 environment:
@@ -8,8 +8,8 @@ environment:
   flutter: '>=3.3.0'
 
 dependencies:
-  firebase_core: ^3.6.0
-  firebase_storage: ^12.3.4
+  firebase_core: ">=3.6.0 <6.0.0"
+  firebase_storage: ">=12.3.4 <15.0.0"
   flutter:
     sdk: flutter
   image_picker_web: ^4.0.0
